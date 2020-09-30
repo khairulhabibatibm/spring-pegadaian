@@ -8,7 +8,7 @@ public class MyController {
 
     @GetMapping("/")
     public String hello(){
-        return "Hello World All Unite";
+        return "Hello World from Development Mode";
     }
     
 }
